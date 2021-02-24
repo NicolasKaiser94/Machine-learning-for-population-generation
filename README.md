@@ -8,4 +8,4 @@ create a complete, as realistic as possible synthetic population with realistic 
 particularly promising for this purpose, as the interrelationships within households are non-linear and interactive. We assume that the starting point will always be a 
 household sample from the real population, on the basis of which our strategies will be developed, applied and tested.
 
-- Masters Thesis at University of Trier (Work in Progress)
+- Masters Thesis at University of Trier 
